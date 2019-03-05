@@ -28,8 +28,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : JI-YONG
+tagline: Security Enginner
 assets: /assets
 url: "https://jiyong1984.github.io"
 repository: "jiyong1984/jiyong.1984.github.io"

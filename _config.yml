@@ -36,7 +36,7 @@ repository: "jiyong1984/jiyong.1984.github.io"
 baseurl:
 
 #### Language
-language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
+#language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
 
 #### Menu
 menu:
@@ -93,9 +93,9 @@ author:
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email:      ## e.g. imjark@gmail.com
+  email:     dwbem@nate.com
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github:     ## e.g. wuchong for https://github.com/wuchong
+  github:     https://github.com/jiyong1984
   facebook:   ## e.g. imjark for https://facebook.com/imjark
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!

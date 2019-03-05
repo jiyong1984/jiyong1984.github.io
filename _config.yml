@@ -31,7 +31,8 @@ paginate: 20
 title : Jekyll Jacman
 tagline: A fresh looking and responsive theme for Jekyll
 assets: /assets
-url:
+url: "https://jiyong1984.github.io"
+repository: "jiyong1984/jiyong.1984.github.io"
 baseurl:
 
 #### Language
@@ -109,9 +110,9 @@ toc:
 ## if you don't want display contents in a specified post,you can modify `front-matter` and add `toc: false`.
 
 #### Links
-links:
-  码农圈: https://coderq.com
-  Jark's Blog: http://wuchong.me
+#links:
+#  码农圈: https://coderq.com
+#  Jark's Blog: http://wuchong.me
 
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong      your duoshuo short name.       website: http://duoshuo.com

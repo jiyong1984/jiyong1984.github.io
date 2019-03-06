@@ -169,3 +169,6 @@ simple_jekyll_search:
 
 gems:
  - jemoji
+
+  # for Disqus
+disqus_shortname: jeonjiyong

@@ -4,6 +4,7 @@ title: "Burp Suite Extender Apis 활용"
 categories: Security_Tool
 tags: burpsuite
 image: http://gastonsanchez.com/images/blog/mathjax_logo.png
+comments : true
 ---
  <B><font color="red"> 본 내용은 시스템 취약점 진단업을 하는 분들게 도움을 드리기 위해 작성된 블로그이며,
   악용시 사용한 사람의 잘못임을 인지 하길 바랍니다!</font></B>

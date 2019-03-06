@@ -1,8 +1,10 @@
 ---
 layout: default
-comments: true
 ---
 
 {% assign lang = site.data.languages[site.language] %}
 {% include post.html %}
+
+{% if page.comments %}
 {% include comments.html %}
+{% endif %}
